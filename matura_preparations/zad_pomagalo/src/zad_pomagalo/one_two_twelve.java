@@ -17,6 +17,5 @@ public static void main(String[] args) {
 	int finalHours = minutes/60 % 24;
 	int finalMinutes = minutes % 60;
 	System.out.printf("%02d:%02d",finalHours,finalMinutes);
-
 }
 }

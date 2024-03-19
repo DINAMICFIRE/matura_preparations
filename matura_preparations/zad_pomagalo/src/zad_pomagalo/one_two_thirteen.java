@@ -15,5 +15,6 @@ public static void main(String[] args) {
 	//unspecified zad
 	System.out.println(euro);
 	System.out.println(cents);
+	
 }
 }
