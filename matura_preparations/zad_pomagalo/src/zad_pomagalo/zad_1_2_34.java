@@ -3,7 +3,7 @@ package zad_pomagalo;
 
 import java.util.Scanner;
 
-public class one_two_thirtyfour {
+public class zad_1_2_34 {
 public static void main(String[] args) {
 	Scanner scan = new Scanner (System.in);
 	

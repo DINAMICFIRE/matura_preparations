@@ -2,7 +2,7 @@ package zad_pomagalo;
 
 import java.util.Scanner;
 
-public class one_two_twentyone {
+public class zad_1_2_21 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

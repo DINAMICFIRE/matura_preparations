@@ -2,7 +2,7 @@ package zad_pomagalo;
 
 import java.util.Scanner;
 
-public class one_two_twenty {
+public class zad_1_2_20 {
 public static void main(String[] args) {
 	Scanner scan = new Scanner(System.in);
 	int hour = Integer.parseInt(scan.nextLine());

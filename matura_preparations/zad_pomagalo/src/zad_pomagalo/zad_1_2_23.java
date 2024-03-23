@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class one_two_twetythree {
+public class zad_1_2_23 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
