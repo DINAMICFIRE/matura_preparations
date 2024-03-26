@@ -17,12 +17,15 @@ public class main {
 			String author = scan.nextLine();
 			double price = Double.parseDouble(scan.nextLine());
 			
-			library.put(price, new Book(title,author,price,""));
-			//TODO finish the zad
+			library.put(price, new Book(title,author,price,"unknown"));
+			
 			
 		}
 		
-		
+		for (Map.Entry<Double, Book> entry : library.entrySet()) {
+			System.out.println(entry.getValue());
+			
+		}
 		
 		
 		
