@@ -11,5 +11,6 @@ public static void main(String[] args) {
 	.sorted((el1, el2) -> el2.compareTo(el1))
 	.limit(1)
 	.forEach(el ->System.out.println(el));
+	//needs data validation but the one line solution is fire
 }
 }
