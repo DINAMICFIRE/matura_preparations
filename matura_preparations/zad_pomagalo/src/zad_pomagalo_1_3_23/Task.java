@@ -1,5 +1,5 @@
 package zad_pomagalo_1_3_23;
 
-public class Task {
-	//TODO unclear instructions!
+public interface Task {
+	boolean isOccuring(int day,int month,int year);
 }
