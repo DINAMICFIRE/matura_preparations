@@ -40,8 +40,6 @@ public class zad_2_5_4 {
 				countDown++;
 			}
 		}
-		
-		System.out.println();
 		System.out.println(countUp + " " + countDown);
 
 	}

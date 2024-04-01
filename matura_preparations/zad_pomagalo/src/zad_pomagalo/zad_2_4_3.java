@@ -22,7 +22,6 @@ public class zad_2_4_3 {
 		}
 		pairs.sort((el1, el2) -> el1.compareTo(el2));
 		pairs.forEach(System.out::println);
-		scan.close();
 	}
 
 	public static class Triple implements Comparable<Triple> {
