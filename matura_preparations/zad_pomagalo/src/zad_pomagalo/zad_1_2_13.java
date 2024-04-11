@@ -12,7 +12,6 @@ public static void main(String[] args) {
 	double euro = Math.floor(lev/course);
 	
 	double cents =lev - ((lev/course) % euro) /1.95;
-	//unspecified zad
 	System.out.println(euro);
 	System.out.println(cents);
 	
