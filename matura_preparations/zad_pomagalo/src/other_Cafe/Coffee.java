@@ -18,11 +18,11 @@ public class Coffee extends Drink{
 
 	@Override
 	public String toString() {
-		return String.format("Coffee: %s, Size: %s, Strength: %d, Price: %.2f"
-				,super.getName()
-				,super.getSize().toString()
-				,this.getStrength()
-				,super.getPrice());
+		return String.format("Coffee: %s, Size: %s, Strength: %d, Price: %.2f",
+				super.getName(),
+				super.getSize().toString(),
+				this.getStrength(),
+				super.getPrice());
 	}
 
 	
