@@ -19,6 +19,7 @@ public class ReverseNumbers {
 		while(!stack.isEmpty()) {
 			System.out.println(stack.pop());
 		}
+		//TODO make the same exercise but with queue
 	}
 
 }
